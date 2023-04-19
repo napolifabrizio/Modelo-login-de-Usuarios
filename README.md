@@ -1,7 +1,4 @@
 <h1 align="center"><strong>Modelo Login de Usuarios</strong></h1>
-![Badge License](https://img.shields.io/badge/license-napolifabrizio-green)
-![Badge Desenvolvimento](https://img.shields.io/badge/status-desenvolvimento-yellow)
-
 
 <h1><strong>Descrição</strong></h2>
 
