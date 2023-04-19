@@ -27,11 +27,15 @@
 <h3><strong>Primeira:</strong></h3>
     
     Esse projeto não possui frontend, só é possível mexer nele   
-    com programas específicos como postman ou insomnia. Como ele é só para mostrar os diferentes jeitos de criar uma estrutura de usuário, não acho que faz sentido criar um frontend, pelo menos não até o momento.
+    com programas específicos como postman ou insomnia. Como ele é só para mostrar os 
+    diferentes jeitos de criar uma estrutura de usuário, não acho que faz sentido criar 
+    um frontend, pelo menos não até o momento.
 
 <h3><strong>Segunda:</strong></h3>
     
-    Na parte das funcionalidades eu listei algumas, mas a principal é criar conta de usuário, como vou mostrar mais de uma, o propósito é colocar todas que conheço, algumas terão mais funcionalidades que outras, funcionalidades diferentes etc.
+    Na parte das funcionalidades eu listei algumas, mas a principal é criar conta de 
+    usuário, como vou mostrar mais de uma, o propósito é colocar todas que conheço, 
+    algumas terão mais funcionalidades que outras, funcionalidades diferentes etc.
 
         
 
