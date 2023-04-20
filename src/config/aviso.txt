@@ -1,3 +1,0 @@
-Dentro da pasta "config" existe um arquivo chamado dbconnect.js, porém ele está 
-escondido por questões de segurança. Você consegue o ver sendo chamado no arquivo
-"app.js"como import, mas não tem como acessar.
