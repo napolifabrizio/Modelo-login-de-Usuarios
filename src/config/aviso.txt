@@ -1,0 +1,2 @@
+Dentro dessa pasta há um outro arquivo chamado "dbconnect.js", porém não é possível
+visualizar pois possui dados sensíveis de conexão com o banco de dados.
